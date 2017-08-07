@@ -9,7 +9,7 @@ It'll be completed as it goes on--life is busy.
 
 
 
-The origina from betweenbrain:
+The original from betweenbrain:
 
 
 A hand-rolled bash shell script to help you get up and running quickly with an Ubuntu 10.04 web server  (Apache2 MPM Worker, MySQL, PHP5, suexec, fcgid).
