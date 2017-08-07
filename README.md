@@ -1,5 +1,16 @@
-Initial server setup
+# Linux Setup Scripts
 ====================
+
+This is a bunch of scripts that should allow someone to get their Linux server up and running quickly. It is based on work with Ubuntu and Raspbian but can probably be easily modified for other distributions.
+
+It'll be completed as it goes on--life is busy.
+
+
+
+
+
+The origina from betweenbrain:
+
 
 A hand-rolled bash shell script to help you get up and running quickly with an Ubuntu 10.04 web server  (Apache2 MPM Worker, MySQL, PHP5, suexec, fcgid).
 
